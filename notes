@@ -1,0 +1,6 @@
+npm install pg
+in order to use pg you have to do things on the server
+1 create pool for database
+if all connections are gone, you won't be able to connect to database
+.... create the pool class
+2 connect to database
